@@ -207,7 +207,7 @@ Respond with exactly one word: either "Req" if the statement is a requirement, o
 def main():
     """Main execution."""
     # API key embedded directly in code
-    api_key = "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"
+    api_key = 
 
     print("=" * 80)
     print("REQUIREMENTS DEMARCATOR - Llama 3.3 70B Instruct")
