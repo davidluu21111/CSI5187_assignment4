@@ -207,7 +207,7 @@ Respond with exactly one word: either "Req" if the statement is a requirement, o
 def main():
     """Main execution."""
     # API key embedded directly in code
-    api_key = "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"
+    api_key = 
 
     print("=" * 80)
     print("REQUIREMENTS DEMARCATOR - GPT-4o-mini")
